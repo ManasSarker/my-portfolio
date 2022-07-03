@@ -28,11 +28,18 @@ h1 {
   margin-left: 5%;
 }
 
+.mid-banner {
+  display: flex;
+}
+
 .top-banner {
   display: flex;
   background-image: url("images/top-banner.png");
   background-repeat: no-repeat;
 }
 img {
-  width: 80%;
+  width: 70%;
+}
+section {
+  margin-bottom: 5%;
 }
